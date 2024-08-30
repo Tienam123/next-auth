@@ -8,6 +8,8 @@
 
 # testing
 /coverage
+.idea
+yarn.lock
 
 # next.js
 /.next/
