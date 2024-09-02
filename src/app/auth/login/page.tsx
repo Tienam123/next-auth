@@ -8,11 +8,3 @@ const LoginPage = () => {
     );
 };
 export default LoginPage
-const LoginPage = () => {
-    return (
-        <>
-            Login Page
-        </>
-    );
-};
-export default LoginPage
